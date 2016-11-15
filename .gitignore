@@ -4,6 +4,7 @@
 # Xcode files
 **/xcuserdata
 contents.xcworkspacedata
+*.xcworkspace
 
 # Compiled Object files
 *.slo
